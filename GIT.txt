@@ -1,0 +1,2 @@
+--se puede subir al staged de git lo que es archivo por archivo con git add {path}
+
