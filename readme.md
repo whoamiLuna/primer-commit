@@ -10,3 +10,4 @@ git ref para cambiar la configuracion en el flujo de git
 
 git push origin --delete master para eliminar master despues de hacer default main
 
+                
